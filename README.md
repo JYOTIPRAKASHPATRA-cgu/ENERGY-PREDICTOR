@@ -17,5 +17,3 @@ It combines a modern interactive frontend dashboard with a Node.js backend API t
 - 🔌 Full-stack architecture (Frontend + Backend)
 
 ---
-
-## 🏗️ Project Architecture
